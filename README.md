@@ -5,7 +5,7 @@
 ## Overview
 Experience seamless scraping with Bright Data's [Thailand proxies](https://brightdata.com/locations/th), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Thailand and don't get blocked again.
 
-- **200K Thailand proxy IPs**
+- **980K Thailand proxy IPs**
 - **Sticky and rotating sessions**
 - **99.95% success rate**
 - **HTTP(S) & SOCKS5 support**
